@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f843a0f4-31de-4cd8-8bf5-45edc7659355" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.release.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/actions.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/aliasing.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/assertions.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/connectors.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/cookies.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/cypress_api.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/files.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/local_storage.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/location.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/misc.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/navigation.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/network_requests.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/querying.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/spies_stubs_clocks.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/traversal.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/utilities.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/viewport.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/waiting.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/examples/window.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/plugins/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/plugins/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/set-port.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test-execa.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1cUN2pYjQmP3KKXOuuQbbz4NGZb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f843a0f4-31de-4cd8-8bf5-45edc7659355" name="Default Changelist" comment="" />
+      <created>1590579007339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590579007339</updated>
+    </task>
+    <servers />
+  </component>
+</project>

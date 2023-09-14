@@ -1,25 +1,17 @@
-// ***********************************************
-// This example commands.js shows you how to
-// create various custom commands and overwrite
-// existing commands.
-//
-// For more comprehensive examples of custom
-// commands please read more here:
-// https://on.cypress.io/custom-commands
-// ***********************************************
-//
-//
-// -- This is a parent command --
-// Cypress.Commands.add('login', (email, password) => { ... })
-//
-//
-// -- This is a child command --
-// Cypress.Commands.add('drag', { prevSubject: 'element'}, (subject, options) => { ... })
-//
-//
-// -- This is a dual command --
-// Cypress.Commands.add('dismiss', { prevSubject: 'optional'}, (subject, options) => { ... })
-//
-//
-// -- This will overwrite an existing command --
-// Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add("SingIn", () => {
+  
+  cy.visit('')
+  //verify the title of the page
+  cy.title().should('eq', 'Admin Panel')
+  // cy.title().should('eq', 'Terminal ID & Password')     
+  cy.contains('Terminal ID & Password').should('be.visible')
+  //verify the location like host/port/hostname/pathname etc
+  cy.location('protocol').should('eq', 'https:')
+  //enter input and click signin button
+  cy.get('input[id="terminalid"]').type('57')
+  cy.get('input[id="terminal_password"]').type('123456')
+  //verify submit button and click
+  cy.get('input[id="terminal_signin_button"]').should('be.visible').click()   ///#/webterminal
+
+})

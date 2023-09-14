@@ -12,7 +12,7 @@ To see the kitchen sink application, visit [example.cypress.io](https://example.
 [semantic-url]: https://github.com/semantic-release/semantic-release
 
 ## CI status
-
+7715000178
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://link.cypress.io/kitchensink-amplify-oneclick)
 
 CI | Build status | basic config file | full parallel config
@@ -78,7 +78,7 @@ You should see the Kitchen Sink App up and running. We are now ready to run Cypr
 
 ```bash
 ## launch the cypress test runner
-npm run cy:open
+ 
 ```
 
 **shortcut:** you can use command `npm run local:open` that uses [start-server-and-test](https://github.com/bahmutov/start-server-and-test) to start local server and open Cypress. When you close Cypress, the local server is stopped automatically. Similarly you can use `npm run local:run` to start the server, run Cypress tests headlessly and close the server.
